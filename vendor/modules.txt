@@ -1,0 +1,9 @@
+# github.com/go-sql-driver/mysql v1.4.1
+github.com/go-sql-driver/mysql
+# github.com/jinzhu/gorm v1.9.2
+github.com/jinzhu/gorm
+github.com/jinzhu/gorm/dialects/mysql
+# github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a
+github.com/jinzhu/inflection
+# github.com/koalaone/model_auto v0.0.0-20190128130552-9f22b46650ba
+github.com/koalaone/model_auto/mysql
