@@ -83,3 +83,8 @@ func main() {
 
 
 ```
+
+### 7、exec command
+```bash
+make run
+```

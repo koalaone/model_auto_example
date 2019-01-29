@@ -7,4 +7,6 @@ github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a h1:eeaG9XMUvRBYX
 github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
 github.com/koalaone/model_auto v0.0.0-20190128130552-9f22b46650ba h1:QtOx5TsDlRWWRt4QFO37wILZb1IcWDWEEg1zxHjlI+4=
 github.com/koalaone/model_auto v0.0.0-20190128130552-9f22b46650ba/go.mod h1:ExBJgIPUQd+xpcVna7R9WtljM22Dmaa1uDGK0Nq55N8=
+github.com/koalaone/model_auto v0.0.0-20190128135656-be00ca988ac0 h1:z/xWAjB6hDXLYK36/QsMxIiJ4VmpdtqngqEWp5auM6Q=
+github.com/koalaone/model_auto v0.0.0-20190128135656-be00ca988ac0/go.mod h1:ExBJgIPUQd+xpcVna7R9WtljM22Dmaa1uDGK0Nq55N8=
 github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24/go.mod h1:M+9NzErvs504Cn4c5DxATwIqPbtswREoFCre64PpcG4=

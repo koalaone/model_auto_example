@@ -1,4 +1,4 @@
-APPNAME=model_auto
+APPNAME=model_auto_example
 
 export GOPATH=/Users/kevinchen/Documents/Golang/koalaone/
 
@@ -6,6 +6,8 @@ export GOPATH=/Users/kevinchen/Documents/Golang/koalaone/
 .PHONY : vgo
 vgo:
 	@echo "GOPATH:"${GOPATH}
+	vgo get -u
+	vgo clean
 	vgo build
 
 .PHONY : fix
@@ -25,7 +27,7 @@ build:
 	go build -o ${APPNAME}
 
 
-.PHONY : install
-install:
+.PHONY : run
+run:
 	@echo "GOPATH:"${GOPATH}
-	vgo install
+	vgo run main.go
